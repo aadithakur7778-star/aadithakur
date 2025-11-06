@@ -1,0 +1,38 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #1a1a1a;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    overflow: hidden; /* To hide any potential scrollbars from fireworks */
+}
+
+.container {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(38, 255, 0, 0.5);
+}
+
+.greeting {
+    color: #ff9900; /* Diwali orange */
+    font-size: 3em;
+    margin-bottom: 20px;
+    text-shadow: 0 0 10px rgba(255, 165, 0, 0.7);
+}
+
+.diwali-image {
+    width: 200px;
+    height: 200px;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+.message {
+    font-size: 1.5em;
+    color: #e0e0e0;
+}
