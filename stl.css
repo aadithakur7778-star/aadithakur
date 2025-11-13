@@ -1,0 +1,37 @@
+ 
+       h1{
+        
+       }
+       #box1 {
+            border: 2px solid BLACK;
+            padding: 20px;
+            margin 10px;
+            color: beige;
+            background-color: rgb(145, 209, 199);
+        }
+
+        #box2 {
+            border: 2px solid BLACK;
+            padding: 20px;
+            margin 10px;
+            color: beige;
+            background-color: rgb(235, 235, 121);
+            font-style: italic;
+        }
+        #box3 {
+            border: 2px solid BLACK;
+            padding: 20px;
+            margin 10px;
+            color: beige;
+            background-color: rgb(31, 162, 14);
+            
+        }
+        #box4 {
+            border: 2px solid BLACK;
+            padding: 20px;
+            margin 10px;
+            color: beige;
+            background-color: rgb(111, 116, 205);
+        }
+
+    
